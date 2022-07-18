@@ -1,0 +1,16 @@
+{
+    "name": "heritagehomes-doheain/cookie-policy",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/heritagehomes-doheain/cookie-policy",
+    "authors": [
+      {
+        "name": "Hu-manity.co",
+        "homepage": "https://hu-manity.co"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    }
+}
